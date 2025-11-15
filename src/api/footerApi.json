@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Ahmedabad, Gujarat"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "8758696701"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@gmail.com"
+  }
+]
